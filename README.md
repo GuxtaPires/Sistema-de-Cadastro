@@ -4,7 +4,7 @@ Este sistema, desenvolvido em Java, simula uma interface simples para cadastro d
 
 ## Feedback
 
-Me mande sua opinião sobre este jogo neste meio:
+Me mande sua opinião sobre este sistema neste meio:
 
 - [Linkedin](https://www.linkedin.com/in/gustavodasilvapires/)
 
